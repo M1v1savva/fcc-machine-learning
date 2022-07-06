@@ -10,7 +10,7 @@ These are my submissions for freeCodeCamp.org Machine Learning certification:
 
 [Linear Regression Health Costs Calculator](https://colab.research.google.com/drive/1O2743NAkTdXAEtCXI52xeCT9dTJkHjN4?usp=sharing)
 
-[Neural Network SMS Text Classifier](https://colab.research.google.com/drive/1BCq6A72-XRFUZiSgqn6d5W3hxTvegQbM?usp=sharing)
+[Neural Network SMS Text Classifier](https://colab.research.google.com/drive/1oadFfHvBBi91KMpNp7OXcDSPzbxUfcUE?usp=sharing)
 
 ---
 
